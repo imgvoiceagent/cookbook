@@ -17,3 +17,5 @@
 *.pyc
 .jetski_venv/
 reports/
+config.bat
+node_modules
